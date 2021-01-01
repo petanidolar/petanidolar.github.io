@@ -1,0 +1,22 @@
+{
+  "Iklan":
+  [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=com.ptn.betrandpeto",
+      "interid": "ca-app-pub-9242128344326667/3409856343",
+      "nativeid": "ca-app-pub-9242128344326667/7216734176",
+      "startappid": "209419592",
+      "pengaturan_iklan": "1",
+      "fan_inter": "381758536415456_381758579748785",
+      "fan_banner_native": "381758536415456_387301929194450",
+      "fan_native": "381758536415456_387302125861097",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+      }
+   ]
+
+}

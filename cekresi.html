@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Petani Dolar</title>
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+		<style type="text/css">
+			/* Rounded pill classes for horizontal sides */
+			.rounded-pill-left {
+			border-top-left-radius: 50rem !important;
+			border-bottom-left-radius: 50rem !important;
+			}
+			.rounded-pill-right {
+			border-top-right-radius: 50rem !important;
+			border-bottom-right-radius: 50rem !important;
+			}
+			/* Another classes to use */
+			.rounded-t-l-0 {
+			border-top-left-radius: 0 !important;
+			}
+			.rounded-t-r-0 {
+			border-top-right-radius: 0 !important;
+			}
+			.rounded-b-l-0 {
+			border-bottom-left-radius: 0 !important;
+			}
+			.rounded-b-r-0 {
+			border-bottom-right-radius: 0 !important;
+			}
+			.rounded-x-l-0 {
+			border-top-left-radius: 0 !important;
+			border-bottom-left-radius: 0 !important;
+			}
+			.rounded-x-r-0 {
+			border-top-right-radius: 0 !important;
+			border-bottom-right-radius: 0 !important;
+			}
+		</style>
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<div class="container">
+				<a class="navbar-brand" href="cekresi.html">CEK SEMUA RESI</a>
+			</div>
+		</nav>
+		<!--Tracking number input box.-->
+
+		<div class="alert alert-primary text-center" role="alert" style="border-radius: 0px;">
+			<h4 class="alert-heading">CEK RESI!</h4>
+			<p>Berikut adalah cek resi paling simple dan terlengkap. Ringan digunakan meskipun koneksi kamu lambat. Langsung tempelkan resi dan cari maka sistem akan mencari otmatis ekspedisi yang dipakai.</p>
+		</div>
+
+		<div class="card">
+			<div class="card-body bg-secondary">
+				<div class="input-group input-group-lg">
+					<input class="form-control border rounded-pill-left border-right-0" type="search" placeholder="Tempel atau ketik resinya disini" id="YQNum">
+					<span class="input-group-append">
+						<button class="btn btn-outline-primary border rounded-pill-right border-left-0" type="button" value="TRACK" onclick="doTrack()">
+						<i class="fa fa-search"></i>
+						</button>
+					</span>
+				</div>
+				<!--Container to display the tracking result.-->
+			</div>
+		</div>
+		<div class="card">
+			<div class="card-body">
+				<div id="YQContainer"></div>
+			</div>
+
+			<img src="img/maps.jpg" class="card-img-top">
+			<div class="alert alert-primary text-center" role="alert" style="border-radius: 0px;">
+			  SUPPORT BY
+			</div>
+			<img src="img/expedisi.png" class="card-img-top">
+		</div>
+		<!-- jQuery -->
+		<script src="js/jquery-3.5.0.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+
+		<!--Script code can be put in the bottom of the page, wait until the page is loaded then execute.-->
+		<script type="text/javascript" src="//www.17track.net/externalcall.js"></script>
+		<script type="text/javascript">
+		function doTrack() {
+		var num = document.getElementById("YQNum").value;
+		if(num===""){
+		alert("Enter your number.");
+		return;
+		}
+		YQV5.trackSingle({
+		//Required, Specify the container ID of the carrier content.
+		YQ_ContainerId:"YQContainer",
+		//Optional, specify tracking result height, max height 800px, default is 560px.
+		YQ_Height:560,
+		//Optional, select carrier, default to auto identify.
+		YQ_Fc:"0",
+		//Optional, specify UI language, default language is automatically detected based on the browser settings.
+		YQ_Lang:"en",
+		//Required, specify the number needed to be tracked.
+		YQ_Num:num
+		});
+		}
+		</script>
+	</body>
+</html>
