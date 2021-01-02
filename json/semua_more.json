@@ -31,6 +31,12 @@
       "judul":"Park Seo-Joon",
       "image":"https://petanidolar.github.io/img/parkseojoon.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.parkseojoon"
+    },
+    {
+      "id":6,
+      "judul":"Ria Ricis",
+      "image":"https://petanidolar.github.io/img/riaricis.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.riaricis"
     }
   ]
 
