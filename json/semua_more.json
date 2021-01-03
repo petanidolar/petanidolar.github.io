@@ -49,6 +49,18 @@
       "judul":"Song Joong Ki",
       "image":"https://petanidolar.github.io/img/songjoongki.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.songjoongki"
+    },
+    {
+      "id":9,
+      "judul":"Amanda Manopo",
+      "image":"https://petanidolar.github.io/img/amandamanopo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.amandamanopo"
+    },
+    {
+      "id":10,
+      "judul":"Tiara Andini",
+      "image":"https://petanidolar.github.io/img/tiaraandini.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.tiaraandini"
     }
   ]
 
