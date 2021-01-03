@@ -61,6 +61,24 @@
       "judul":"Tiara Andini",
       "image":"https://petanidolar.github.io/img/tiaraandini.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.tiaraandini"
+    },
+    {
+      "id":11,
+      "judul":"Alwi Assegaf",
+      "image":"https://petanidolar.github.io/img/alwiassegaf.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.alwiassegaf"
+    },
+    {
+      "id":12,
+      "judul":"Anya Geraldine",
+      "image":"https://petanidolar.github.io/img/anyageraldine.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.anyageraldine"
+    },
+    {
+      "id":13,
+      "judul":"Aurelie Moeremans",
+      "image":"https://petanidolar.github.io/img/aurelie.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.aureliemoeremans"
     }
   ]
 
