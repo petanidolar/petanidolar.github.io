@@ -83,31 +83,31 @@
     {
       "id":14,
       "judul":"Baim Wong",
-      "image":"https://petanidolar.github.io/img/img/baimwong.jpg",
+      "image":"https://petanidolar.github.io/img/baimwong.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.baimwong"
     },
     {
       "id":15,
       "judul":"Jennie Blackpink",
-      "image":"https://petanidolar.github.io/img/img/bpjennie.jpg",
+      "image":"https://petanidolar.github.io/img/bpjennie.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinkjennie"
     },
     {
       "id":16,
       "judul":"Jisoo Blackpink",
-      "image":"https://petanidolar.github.io/img/img/bpjisoo.jpg",
+      "image":"https://petanidolar.github.io/img/bpjisoo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinkjisoo"
     },
     {
       "id":17,
       "judul":"Lisa Blackpink",
-      "image":"https://petanidolar.github.io/img/img/bplisa.jpg",
+      "image":"https://petanidolar.github.io/img/bplisa.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinklisa"
     },
     {
       "id":17,
       "judul":"Rose Blackpink",
-      "image":"https://petanidolar.github.io/img/img/bprose.jpg",
+      "image":"https://petanidolar.github.io/img/bprose.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinkrose"
     }
   ]
