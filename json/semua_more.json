@@ -109,6 +109,54 @@
       "judul":"Rose Blackpink",
       "image":"https://petanidolar.github.io/img/bprose.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.blackpinkrose"
+    },
+    {
+      "id":18,
+      "judul":"BTS J-Hope",
+      "image":"https://petanidolar.github.io/img/btsjhope.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjhope"
+    },
+    {
+      "id":19,
+      "judul":"BTS Jimin",
+      "image":"https://petanidolar.github.io/img/btsjimin.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjimin"
+    },
+    {
+      "id":20,
+      "judul":"BTS Jin",
+      "image":"https://petanidolar.github.io/img/btsjin.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjin"
+    },
+    {
+      "id":21,
+      "judul":"BTS Jungkook",
+      "image":"https://petanidolar.github.io/img/btsjungkook.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjungkook"
+    },
+    {
+      "id":22,
+      "judul":"BTS RM",
+      "image":"https://petanidolar.github.io/img/btsrm.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btsrm"
+    },
+    {
+      "id":23,
+      "judul":"BTS Suga",
+      "image":"https://petanidolar.github.io/img/btssuga.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btssuga"
+    },
+    {
+      "id":24,
+      "judul":"BTS Taehyung",
+      "image":"https://petanidolar.github.io/img/btstaehyung.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.btstaehyung"
+    },
+    {
+      "id":25,
+      "judul":"Cristiano Ronaldo",
+      "image":"https://petanidolar.github.io/img/ronaldo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.ronaldo"
     }
   ]
 
