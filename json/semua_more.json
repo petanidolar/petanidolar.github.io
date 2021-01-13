@@ -157,6 +157,60 @@
       "judul":"Cristiano Ronaldo",
       "image":"https://petanidolar.github.io/img/ronaldo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.ronaldo"
+    },
+    {
+      "id":26,
+      "judul":"Baekhyun EXO",
+      "image":"https://petanidolar.github.io/img/exbaekhyun.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exbaekhyun"
+    },
+    {
+      "id":27,
+      "judul":"Chanyeol EXO",
+      "image":"https://petanidolar.github.io/img/exchanyeol.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exchanyeol"
+    },
+    {
+      "id":28,
+      "judul":"D.O. EXO",
+      "image":"https://petanidolar.github.io/img/exdo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exdo"
+    },
+    {
+      "id":29,
+      "judul":"Kai EXO",
+      "image":"https://petanidolar.github.io/img/exkai.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exkai"
+    },
+    {
+      "id":30,
+      "judul":"Zhang Yixing EXO",
+      "image":"https://petanidolar.github.io/img/exlay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exlay"
+    },
+    {
+      "id":31,
+      "judul":"Sehun EXO",
+      "image":"https://petanidolar.github.io/img/exsehun.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exsehun"
+    },
+    {
+      "id":32,
+      "judul":"Suho EXO",
+      "image":"https://petanidolar.github.io/img/exsuho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.exsuho"
+    },
+    {
+      "id":33,
+      "judul":"Khabib Nurmagomedov",
+      "image":"https://petanidolar.github.io/img/khabib.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.khabib"
+    },
+    {
+      "id":34,
+      "judul":"Kim Seon Ho",
+      "image":"https://petanidolar.github.io/img/kimseonho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.kimseonho"
     }
   ]
 
