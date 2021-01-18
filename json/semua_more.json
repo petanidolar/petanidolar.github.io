@@ -112,43 +112,43 @@
     },
     {
       "id":18,
-      "judul":"BTS J-Hope",
+      "judul":"J-Hope BTS",
       "image":"https://petanidolar.github.io/img/btsjhope.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjhope"
     },
     {
       "id":19,
-      "judul":"BTS Jimin",
+      "judul":"Jimin BTS",
       "image":"https://petanidolar.github.io/img/btsjimin.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjimin"
     },
     {
       "id":20,
-      "judul":"BTS Jin",
+      "judul":"Jin BTS",
       "image":"https://petanidolar.github.io/img/btsjin.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjin"
     },
     {
       "id":21,
-      "judul":"BTS Jungkook",
+      "judul":"Jungkook BTS",
       "image":"https://petanidolar.github.io/img/btsjungkook.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.btsjungkook"
     },
     {
       "id":22,
-      "judul":"BTS RM",
+      "judul":"RM BTS",
       "image":"https://petanidolar.github.io/img/btsrm.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.btsrm"
     },
     {
       "id":23,
-      "judul":"BTS Suga",
+      "judul":"Suga BTS",
       "image":"https://petanidolar.github.io/img/btssuga.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.btssuga"
     },
     {
       "id":24,
-      "judul":"BTS Taehyung",
+      "judul":"Taehyung BTS",
       "image":"https://petanidolar.github.io/img/btstaehyung.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.btstaehyung"
     },
@@ -211,6 +211,60 @@
       "judul":"Kim Seon Ho",
       "image":"https://petanidolar.github.io/img/kimseonho.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ptn.kimseonho"
+    },
+    {
+      "id":35,
+      "judul":"Kylie Jenner",
+      "image":"https://petanidolar.github.io/img/kylie.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.kylie"
+    },
+    {
+      "id":36,
+      "judul":"Lee Min Ho",
+      "image":"https://petanidolar.github.io/img/leeminho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.leeminho"
+    },
+    {
+      "id":37,
+      "judul":"Lee Donghae",
+      "image":"https://petanidolar.github.io/img/leedonghae.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.leedonghae"
+    },
+    {
+      "id":38,
+      "judul":"Leeteuk",
+      "image":"https://petanidolar.github.io/img/leeteuk.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.leeteuk"
+    },
+    {
+      "id":39,
+      "judul":"NAY (Naisa Alifia Yuriza)",
+      "image":"https://petanidolar.github.io/img/nay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.naisaalifiayuriza"
+    },
+    {
+      "id":40,
+      "judul":"Sandrinna and Rey Bong",
+      "image":"https://petanidolar.github.io/img/sandrinnaandreybong.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.sandrinnaandreybong"
+    },
+    {
+      "id":41,
+      "judul":"Siwon Choi",
+      "image":"https://petanidolar.github.io/img/siwonchoi.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.siwonchoi"
+    },
+    {
+      "id":42,
+      "judul":"Via Vallen",
+      "image":"https://petanidolar.github.io/img/viavallen.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.viavallen"
+    },
+    {
+      "id":43,
+      "judul":"Yesung",
+      "image":"https://petanidolar.github.io/img/yesung.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ptn.yesung"
     }
   ]
 
