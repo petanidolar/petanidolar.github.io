@@ -1,22 +1,22 @@
 {
-   "Ads":
-   [
+  "Ads": [
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-
+      
       "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      
       "admob_inter": "ca-app-pub-9242128344326667/5648255186",
       "admob_native": "ca-app-pub-9242128344326667/4335173516",
-      
+
       "fan_inter": "3546425338816319_3546425452149641",
       "fan_banner_native": "3546425338816319_3546425445482975",
       "fan_native": "3546425338816319_3546425448816308",
 
-      "mopub_banner": "YOUR_PLACEMENT_ID",
-      "mopub_inter": "YOUR_PLACEMENT_ID",
       "startappid": "205065498",
       "interval":3
       }
    ]
+
 }

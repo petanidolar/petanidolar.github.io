@@ -1,23 +1,23 @@
 {
-   "Ads":
-   [
+  "Ads": [
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-
+      
       "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      
       "admob_inter": "ca-app-pub-9242128344326667/7891275141",
       "admob_native": "ca-app-pub-9242128344326667/5265111801",
-      
+
       "fan_inter": "466610651376744_466610691376740",
       "fan_banner_native": "466610651376744_466610681376741",
       "fan_native": "466610651376744_466610684710074",
       "keterangan": "DITOLAK FACEBOOK",
 
-      "mopub_banner": "YOUR_PLACEMENT_ID",
-      "mopub_inter": "YOUR_PLACEMENT_ID",
       "startappid": "205065498",
       "interval":3
       }
    ]
+
 }
