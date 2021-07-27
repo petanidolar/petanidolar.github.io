@@ -4,7 +4,7 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       
-      "select_ads": "ADMOB",
+      "select_ads": "APPLOVIN",
       "select_backup_ads":"FACEBOOK",
       
       "admob_inter": "ca-app-pub-9242128344326667/7648281305",
